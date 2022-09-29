@@ -1,0 +1,100 @@
+.clients-feedback {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.black-bg {}
+
+.clients-feedback-text {
+    text-align: center;
+}
+
+.clients-feedback-mini-title {}
+
+.clients-feedback-title {}
+
+.clients-feedback-card {}
+
+.flexable {
+    display: flex;
+}
+
+/* SLIDER */
+.clients-feedback-slider {}
+
+.clients-feedback-slider-item {
+    animation-name: fade;
+    animation-duration: 1.5s;
+}
+
+.clients-feedback-cardholder {
+    width: 470px;
+    height: 250px;
+    padding: 14px 32px;
+    margin-top: 60px;
+    background-color: #FF3500;
+}
+
+.clients-img {
+    width: 80px;
+    height: 80px;
+}
+
+.clients-name {}
+
+.clients-proffesion {
+    margin-top: 7px;
+}
+
+.clients-descriptions {
+    margin-top: 23px;
+}
+
+.slider-button {
+    display: flex;
+    justify-content: center;
+}
+
+.space {
+    width: 49px;
+    height: 15px;
+    border-radius: 15px;
+    background-color: #373737;
+}
+
+.previous {
+    width: 15px;
+    height: 15px;
+    border-radius: 15px;
+    background-color: #7B7B7B;
+}
+
+.next {
+    width: 15px;
+    height: 15px;
+    border-radius: 15px;
+    background-color: #7B7B7B;
+
+}
+
+.next:active {
+    background-color: #FF3500;
+}
+
+.previous:active {
+    background-color: #FF3500;
+}
+
+@keyframes fade {
+
+    /* Устанавливаем и изменяем степень прозрачности: */
+    0% {
+        transform: scale(0);
+        opacity: 0.2;
+    }
+
+    100% {
+        transform: scale(1);
+        opacity: 1;
+    }
+}

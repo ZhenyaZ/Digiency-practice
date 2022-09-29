@@ -1,0 +1,42 @@
+.team-member {}
+
+.team-member-text {
+    margin-top: 100px;
+    text-align: center;
+}
+
+.team-member-mini-title {}
+
+.team-member-title {
+    margin-top: 25px;
+}
+
+.team-member-card {
+    display: flex;
+    margin-top: 60px;
+}
+
+.team-member-card-holder {
+    background-color: #242526;
+    margin-left: 30px;
+    text-align: center;
+}
+
+.member-img {}
+
+.member-title {
+    margin-top: 24px;
+}
+
+.member-title h5 {
+    color: #FFFFFF;
+}
+
+.member-subtitle {
+    margin-top: 12px;
+    margin-bottom: 15px;
+}
+
+.member-subtitle h6 {
+    color: #7B7B7B;
+}

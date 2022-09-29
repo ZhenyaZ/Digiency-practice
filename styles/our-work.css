@@ -1,0 +1,59 @@
+.our-work {
+    margin-top: 100px;
+    padding-bottom: 100px;
+}
+
+.our-work-text {
+    text-align: center;
+}
+
+.our-expereince-mini-title {}
+
+.our-expereince-title {
+    margin-top: 25px;
+}
+
+.our-work-nav {
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+}
+
+.our-work-nav-item-first {
+    cursor: pointer;
+}
+
+.our-work-nav-item {
+    margin-left: 43px;
+    cursor: pointer;
+}
+
+.our-work-nav-item-first:hover {
+    color: #FF5300;
+}
+
+.our-work-nav-item:hover {
+    color: #FF5300;
+}
+
+.our-work-card {
+    margin-top: 60px;
+}
+
+.our-work-latest {}
+
+.latest-img {}
+
+.our-work-1 {}
+
+.our-work-2 {}
+
+.our-work-3 {
+    margin-top: -100px;
+}
+
+.our-work-4 {}
+
+.our-work-5 {
+    margin-top: -100px;
+}

@@ -1,0 +1,173 @@
+.contact-us {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.contact-us-text {
+    text-align: center;
+}
+
+.contact-us-mini-title {}
+
+.contact-us-title {
+    margin-top: 25px;
+}
+
+.contact-us-card {
+    display: flex;
+    margin-top: 60px;
+}
+
+.contact-us-location {
+    display: flex;
+
+}
+
+.contact-us-cardholder {
+    display: flex;
+    white-space: nowrap;
+    padding: 18px 18px;
+    margin-left: 30px;
+    width: 370px;
+    height: 230px;
+    background: #242526;
+}
+
+.contact-us-first-ch {
+    margin-left: 0px;
+}
+
+.contact-us-contact {
+    margin-top: 138px;
+    margin-left: -218px;
+}
+
+.contact-us-contact h5 {
+    color: #ffff;
+}
+
+.contact-us-callus h5 {
+    color: #ffff;
+}
+
+.contact-us-visitus h5 {
+    color: #ffff;
+}
+
+/* SEND MSG */
+.contact-us-send-msg {
+    margin-top: 60px;
+}
+
+.send-msg-big-img {
+    position: absolute;
+    width: 632px;
+    height: 333px;
+    margin-left: -82px;
+}
+
+
+.send-msg-text {}
+
+.send-msg-title {}
+
+.contact-us-send-msg-form {
+    margin-left: 535px;
+}
+
+.send-msg-form {
+    display: grid;
+}
+
+.send-msg-form-1st {
+    margin-top: 18px;
+}
+
+.send-msg-form-1st input {
+    padding-left: 18px;
+    background: #242526;
+    width: 330px;
+    height: 60px;
+    font-family: 'Work Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+.send-msg-form-1st #email {
+    margin-left: 10px;
+}
+
+.send-msg-form-2st {
+    margin-top: 18px;
+}
+
+.send-msg-form-2st input {
+    padding-left: 18px;
+    background: #242526;
+    width: 330px;
+    height: 60px;
+    font-family: 'Work Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+.send-msg-form-2st #subject {
+    margin-left: 10px;
+}
+
+.send-msg-form-3st {
+    margin-top: 18px;
+}
+
+.send-msg-form-3st textarea {
+    resize: none;
+    padding-top: 18px;
+    padding-left: 18px;
+    width: 692px;
+    height: 163px;
+    background: #242526;
+    font-family: 'Work Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    border: 0px solid black;
+}
+
+.send-msg-form-btn {
+    margin-top: 29px;
+}
+
+.send-msg-form-btn a {
+    color: white;
+}
+
+/* MAP */
+.contact-us-map {
+    margin-top: 139px;
+}
+
+/* LABEL */
+.contact-us-label {
+    display: flex;
+    margin-top: 139px;
+
+}
+
+.label-gluten-free {}
+
+.label-butcherry {
+    margin-left: 120px;
+}
+
+.label-organic-product {
+    margin-left: 120px;
+}
+
+.label-restaurant {
+    margin-left: 120px;
+}

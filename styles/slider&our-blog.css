@@ -1,0 +1,107 @@
+.our-blog {
+    padding-top: 100px;
+}
+
+.our-blog-text {
+    text-align: center;
+}
+
+.our-blog-mini-title {}
+
+.our-blog-title {
+    margin-top: 25px;
+}
+
+.our-blog-card {
+    margin-top: 60px;
+}
+
+
+/* SLIDER */
+
+
+.our-blog-slider {}
+
+.our-blog-slider-item {
+    animation-name: fadeOurBlog;
+    animation-duration: 1.5s;
+}
+
+.our-blog-cardholder {
+    display: flex;
+    white-space: nowrap;
+    padding: 25px 25px;
+    background-color: #242526;
+    width: 570px;
+    height: 294px;
+
+}
+
+.our-blog-card-mini-title {
+    width: 118px;
+    height: 24px;
+
+}
+
+.our-blog-card-mini-title h6 {
+    color: #FF5300;
+}
+
+.our-blog-card-title {
+    width: 308px;
+    height: 93px;
+    margin-top: 64px;
+    margin-left: -117px;
+}
+
+.our-blog-card-big-img {
+    margin-left: 48px;
+    width: 164px;
+    height: 164px;
+}
+
+.our-blog-card-creater {
+    display: flex;
+    text-align: center;
+    width: 330px;
+    height: 80px;
+    margin-top: 201px;
+    margin-left: -520px;
+}
+
+.our-blog-card-creator-img {}
+
+.our-blog-card-creator-name {
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+.our-blog-card-creator-name h5 {
+    color: #FFFFFF;
+}
+
+.our-blog-card-creator-data {
+    margin-top: 45px;
+}
+
+.our-blog-card-creator-data h6 {
+    color: #7B7B7B;
+}
+
+.slider-button {
+    margin-top: 60px;
+}
+
+@keyframes fadeOurBlog {
+
+    /* Устанавливаем и изменяем степень прозрачности: */
+    0% {
+        transform: scale(0);
+        opacity: 0.2;
+    }
+
+    100% {
+        transform: scale(1);
+        opacity: 1;
+    }
+}

@@ -1,0 +1,74 @@
+.our-expereince {}
+
+.our-expereince-text {
+    padding-top: 57px;
+    padding-bottom: 130px;
+}
+
+.our-expereince-mini-title {}
+
+.our-expereince-title {
+    margin-top: 25px;
+}
+
+.our-expereince-subtitle {
+    margin-top: 18px;
+}
+
+.our-expereince-btn {
+    margin-top: 50px;
+}
+
+.our-expereince-btn a {
+    color: white;
+}
+
+.our-expereince-card {
+    margin-left: 634px;
+    margin-top: -605px;
+    /* top: 1872px; */
+    position: absolute;
+}
+
+.first-column-card {
+    display: flex;
+}
+
+.second-column-card {
+    display: flex;
+}
+
+.our-expereince-card-holder {
+    padding: 74px 52px;
+    text-align: center;
+    white-space: nowrap;
+    background: #3A3B3C;
+}
+
+.our-exp-card-title {}
+
+.our-exp-card-subtitle {}
+
+.global-customer {
+    width: 270px;
+    height: 250px;
+}
+
+.project-completed {
+    width: 270px;
+    height: 250px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.our-exp-team-member {
+    width: 270px;
+    height: 250px;
+}
+
+.our-company {
+    width: 270px;
+    height: 250px;
+    margin-left: 30px;
+    margin-top: 30px;
+}

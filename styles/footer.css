@@ -1,0 +1,140 @@
+.footer {}
+
+.footer-content {
+    display: flex;
+    padding: 66px 135px 58px 135px;
+
+}
+
+/* FOOTER LOGO SECTION */
+.footer-logo-section {}
+
+.footer-logo-section-text {
+    margin-top: 25px;
+}
+
+.footer-logo-section-contacts {
+    display: flex;
+    text-align: center;
+    margin-top: 18px;
+}
+
+.footer-logo-section-facebook {
+
+    background-color: white;
+    padding: 10px 10px 10px 10px;
+}
+
+.footer-logo-section-instagram {
+    background-color: white;
+    padding: 10px 10px 10px 10px;
+    margin-left: 27px;
+}
+
+.footer-logo-section-twitter {
+    background-color: white;
+    padding: 10px 10px 10px 10px;
+    margin-left: 27px;
+}
+
+.footer-logo-section-skype {
+    background-color: white;
+    padding: 10px 10px 10px 10px;
+    margin-left: 27px;
+}
+
+.footer-logo-section-facebook:hover {
+    background-color: #FF5300;
+}
+
+.footer-logo-section-instagram:hover {
+    background-color: #FF5300;
+
+}
+
+.footer-logo-section-twitter:hover {
+    background-color: #FF5300;
+
+}
+
+.footer-logo-section-skype:hover {
+    background-color: #FF5300;
+
+}
+
+/* FOOTER COMPANY SECTION */
+.footer-company-section {
+    margin-left: 37px;
+}
+
+.footer-company-section-title {
+    margin-left: 37px;
+}
+
+.footer-company-section-list {}
+
+.footer-company-section-list-item {
+    padding-bottom: 11px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+/* SERVICES */
+.footer-services-section {
+    margin-left: 120px;
+}
+
+.footer-services-section-title {
+    margin-left: 37px;
+}
+
+.footer-services-section-list-item {
+    padding-bottom: 11px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+/* NEWSLETTER */
+.footer-newsletter-section {
+    margin-left: 156px;
+    white-space: nowrap;
+}
+
+.footer-newsletter-section-form {
+    margin-top: 25px;
+}
+
+.footer-newsletter-section-form button {
+    background-image: url("/img/HomePage/Icon/Vector.png");
+    width: 81px;
+    height: 61px;
+    border: 0px;
+    margin-left: -4px;
+    padding-top: 12px;
+}
+
+.footer-newsletter-section-form input {
+    width: 189px;
+    height: 59px;
+    padding-left: 18px;
+    font-family: 'Work Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    border: 1px solid #FF5300;
+}
+
+/* FOOTER LINE */
+.footer-line {
+    background-color: #FF5300;
+    padding: 18px 0px 18px 135px;
+}

@@ -1,0 +1,63 @@
+.about-us {
+    padding-top: 225px;
+    padding-bottom: 120px;
+}
+
+.container {}
+
+.about-us-img {
+    position: absolute;
+    width: 684px;
+    height: 352px;
+}
+
+.about-us-img img {
+    position: relative;
+    left: -83px;
+}
+
+.about-us-text {
+    position: relative;
+    left: 591px;
+    top: -78px;
+    width: 570px;
+    height: 435px;
+}
+
+.about-us-mini-title {}
+
+.about-us-title {
+    margin-top: 25px;
+}
+
+.about-us-subtitle {
+    margin-top: 18px;
+}
+
+.about-us-btn {
+    margin-top: 25px;
+}
+
+.about-us-btn a {
+    color: white;
+}
+
+/* CARD */
+.about-us-card {
+    display: flex;
+    text-align: center;
+
+}
+
+.card-holder {
+    padding: 25px 30px;
+    background: #242526;
+}
+
+.card-holder:not(.first) {
+    margin-left: 30px;
+}
+
+.card-img {}
+
+.card-title {}

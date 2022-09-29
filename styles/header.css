@@ -1,0 +1,103 @@
+.header-wrapper {}
+
+.header-logo {
+    width: 162px;
+    height: 48px;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+}
+
+.nav-item-first {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 25px;
+    color: white;
+    padding-left: 77px;
+}
+
+.nav-item {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 25px;
+    color: white;
+    padding-left: 38px;
+}
+
+.nav-switcher[type="submit"] {
+    background-image: url("/img/HomePage/other/Light.png");
+    background-repeat: no-repeat;
+    margin-left: 216px;
+    border: none;
+    outline: none;
+    width: 24px;
+    height: 24px;
+    text-align: center;
+}
+
+/* HEADER LINE */
+.header-line {
+    padding-top: 176px;
+    padding-bottom: 153px;
+}
+
+.header-line-content {}
+
+.container {}
+
+.header-line-title h1 {
+    width: 440px;
+    height: 177px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 59px;
+    text-transform: capitalize;
+    color: white
+}
+
+.header-line-subtitle h6 {
+    margin-top: 25px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: white;
+}
+
+.header-line-btn {
+    margin-top: 50px;
+    width: 150px;
+    text-align: center;
+    padding: 13px 19px;
+    background: #FF5300;
+    border-radius: 5px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 25px;
+}
+
+.header-line-btn a {
+    color: white;
+}
+
+.header-line-img {
+    position: absolute;
+    width: 639px;
+    height: 429px;
+    margin-left: 527px;
+    left: 135px;
+    top: 253px;
+
+}
